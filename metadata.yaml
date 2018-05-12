@@ -1,0 +1,50 @@
+_repo: Dangerous-Connections-v.-1-2-3-4Society._45512
+_version: 0.1.0
+alternative_title: Les liaisons dangereuses. English
+contributor:
+  translator:
+    agent_name: Moore, Thomas
+    aliases:
+    - Little, Thomas
+    - Moore, Tom
+    - Brown, Thomas, the younger
+    - Moore, Anacreon
+    birthdate: 1779
+    deathdate: 1852
+    gutenberg_agent_id: '2185'
+    url: http://www.gutenberg.org/2009/agents/2185
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Moore
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laclos, Choderlos de
+    aliases:
+    - Laclos, Pierre Choderlos de
+    - DeLaclos, C. (Choderlos)
+    - Choderlos de Laclos, Pierre-Ambroise-Francois
+    - Choderlos de Laclos, Pierre-Ambroise-François
+    birthdate: 1741
+    deathdate: 1803
+    gutenberg_agent_id: '43328'
+    url: http://www.gutenberg.org/2009/agents/43328
+description: ''
+gutenberg_issued: '2014-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seduction -- Fiction'
+- !lcsh 'Aristocracy (Social class) -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Mock-heroic literature'
+- !lcsh 'France -- Fiction'
+title: "Dangerous Connections, v. 1, 2, 3, 4\r\nA Series of Letters, selected from\
+  \ the Correspondence of a Private Circle; and Published for the Instruction of Society."
+url: http://www.gutenberg.org/ebooks/45512
